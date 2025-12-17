@@ -1,0 +1,11 @@
+﻿experiment_id,wavelength_nm,power_density_w_cm2,irradiation_time_min,temperature_c,drug_release_percent,photothermal_efficiency_percent,penetration_depth_mm,study_reference,data_type
+NIR_1,808,0.3,3,38,25,20,2.2,"ACS Nano 2022, Biomaterials 2021",NIR
+NIR_2,808,0.3,8,39,35,25,2.2,"ACS Nano 2022, Biomaterials 2021",NIR
+NIR_3,808,0.8,5,41,52,38,2.5,"ACS Nano 2022, Biomaterials 2021",NIR
+NIR_4,808,0.8,13,42,65,45,2.5,"ACS Nano 2022, Biomaterials 2021",NIR
+NIR_5,808,1.2,8,43,75,55,2.7,"ACS Nano 2022, Biomaterials 2021",NIR
+NIR_6,808,1.2,18,44,82,62,2.7,"ACS Nano 2022, Biomaterials 2021",NIR
+NIR_7,808,1.6,10,44,78,58,3,"ACS Nano 2022, Biomaterials 2021",NIR
+NIR_8,808,2,8,45,85,65,3.2,"ACS Nano 2022, Biomaterials 2021",NIR
+NIR_9,980,0.5,5,39,30,22,2.3,"ACS Nano 2022, Biomaterials 2021",NIR
+NIR_10,980,1,8,42,58,42,2.6,"ACS Nano 2022, Biomaterials 2021",NIR

@@ -1,0 +1,14 @@
+﻿data_id,study_reference,uvb_dose_mj_cm2,pasi75_response_percent,inflammation_reduction_percent,patients_count,treatment_weeks,adverse_effects_percent,data_type
+UVB_1,Br J Dermatol 2015,50,28,22,45,12,2,UVB_CLINIC
+UVB_2,Br J Dermatol 2015,100,35,28,45,12,3,UVB_CLINIC
+UVB_3,Br J Dermatol 2015,150,48,38,45,12,4,UVB_CLINIC
+UVB_4,Br J Dermatol 2015,200,58,45,45,12,5,UVB_CLINIC
+UVB_5,Br J Dermatol 2015,300,72,62,45,12,8,UVB_CLINIC
+UVB_6,JAAD 2018,75,32,26,60,8,2,UVB_CLINIC
+UVB_7,JAAD 2018,150,52,44,60,8,4,UVB_CLINIC
+UVB_8,JAAD 2018,225,64,56,60,8,7,UVB_CLINIC
+UVB_9,JAAD 2018,300,71,62,60,8,9,UVB_CLINIC
+UVB_10,J Dermatolog Treat 2020,100,38,32,80,10,3,UVB_CLINIC
+UVB_11,J Dermatolog Treat 2020,200,55,48,80,10,6,UVB_CLINIC
+UVB_12,J Dermatolog Treat 2020,300,68,58,80,10,8,UVB_CLINIC
+UVB_13,J Dermatolog Treat 2020,400,65,55,80,10,12,UVB_CLINIC

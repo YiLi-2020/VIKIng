@@ -1,0 +1,17 @@
+﻿combination_id,particle_size_nm,surface_modification,photo_response_efficiency,drug_loading_percent,encapsulation_efficiency_percent,targeting_binding_rate_percent,stability_days,zeta_potential_mv,pdi,study_reference,data_type
+1,60,N/A,0.5,3,65,20,90,-20,0.12,"J Control Release 2020, Biomaterials 2021",NANOMED
+2,60,N/A,0.8,3,65,20,90,-20,0.12,"J Control Release 2020, Biomaterials 2021",NANOMED
+3,60,Anti-IL-17,0.5,5,75,80,85,-20,0.12,"J Control Release 2020, Biomaterials 2021",NANOMED
+4,60,Anti-IL-17,0.8,5,75,80,85,-20,0.12,"J Control Release 2020, Biomaterials 2021",NANOMED
+5,80,N/A,0.5,6,71,20,86,-18,0.16,"J Control Release 2020, Biomaterials 2021",NANOMED
+6,80,N/A,0.8,6,71,20,86,-18,0.16,"J Control Release 2020, Biomaterials 2021",NANOMED
+7,80,Anti-IL-17,0.5,7.4,80,86,82,-18,0.16,"J Control Release 2020, Biomaterials 2021",NANOMED
+8,80,Anti-IL-17,0.8,7.4,80,86,82,-18,0.16,"J Control Release 2020, Biomaterials 2021",NANOMED
+9,100,N/A,0.5,9,77,20,82,-16,0.2,"J Control Release 2020, Biomaterials 2021",NANOMED
+10,100,N/A,0.8,9,77,20,82,-16,0.2,"J Control Release 2020, Biomaterials 2021",NANOMED
+11,100,Anti-IL-17,0.5,9.8,85,92,79,-16,0.2,"J Control Release 2020, Biomaterials 2021",NANOMED
+12,100,Anti-IL-17,0.8,9.8,85,92,79,-16,0.2,"J Control Release 2020, Biomaterials 2021",NANOMED
+13,120,N/A,0.5,12,83,20,78,-14,0.24,"J Control Release 2020, Biomaterials 2021",NANOMED
+14,120,N/A,0.8,12,83,20,78,-14,0.24,"J Control Release 2020, Biomaterials 2021",NANOMED
+15,120,Anti-IL-17,0.5,12.2,90,98,76,-14,0.24,"J Control Release 2020, Biomaterials 2021",NANOMED
+16,120,Anti-IL-17,0.8,12.2,90,98,76,-14,0.24,"J Control Release 2020, Biomaterials 2021",NANOMED
